@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HOME DECOR</title>
+	<meta name="viewport" content="width=device-width,intial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+	<section class="header">
+		<nav class="navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="index.html"><img src="images/logo1.jpg"></a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <i class="fa fa-bars"></i>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="policy.html">POLICY</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="location.html">LOCATION</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="blog.html">BLOG</a>
+      </li>
+      
+    </ul>
+
+    <ul class="right-menu ml-auto">
+    	<li><a href="https://www.facebook.com/anusha393"><i class="fa fa-facebook"></i></a></li>
+    	<li><a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a></li>
+    	<li><a href="https;//www.pinterest.com/"><i class="fa fa-pinterest"></i></a></li>
+    	<li>
+    	<div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Search">
+        <div class="input-group-append">
+         <span class="input-group-text"><i class="fa fa-search"></i></span>
+        </div>
+</div></li>
+    </ul>
+
+  </div>
+</nav>
+<div class="banner">
+	<div class="banner-img">
+	<img src="images/a.jpg">
+	</div>
+	<div class="banner-title">
+		<h1> Decor Things</h1>
+		<h1>made</h1>
+		<h1> Happy Home</h1>
+	</div>
+
+</div>
+		
+	</section>
+
+	<!-----Trends------>
+	<section class="Decor-Trends">
+		<div class="container">
+			<div class="decor-box">
+			<div class="title-style text-center">
+			<h2>Home Decor Trends in 2020</h2>
+		</div>
+			<p class="text-center">If there's one perfect moment to update your home, it's at the start of a new decade. After 10 years of the same old, same old, now is the time to roll on one of the top paint colors, refresh the heart of your home with one of our favorite kitchen ideas, or simply add a new piece of art to your gallery wall. And if you want to make a serious statement this year, then try incorporating one of the hottest home decor trends of 2020.
+
+To find the home ideas that are about to be everywhere, we went straight to our favorite interior design pros. From navy paint and floral wallpaper to colored cabinets and free-standing tubs, these are the 2020 home decor trends that experts can't wait to see. Whether you love trends or will typically go to great lengths to avoid them, there are bound to be a few ideas on our list that you'll adore (and will continue to adore into the next decade.</p>
+		</div>
+
+
+		<div class="title-style text-center">
+			<h2>Interior</h2>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/ii.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$2000</h4></center>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/ii2.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1500</h4></center>
+			</div>
+		</div>
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/ii4.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$800</h4></center>
+			</div>
+		</div>
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/ii5.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1000</h4></center>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/ii6.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1600</h4></center>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/ii7.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$2000</h4></center>
+			</div>
+		</div>
+		
+
+
+		</div>
+
+        <br><br><br>
+		<div class="title-style text-center">
+			<h2>Handmade</h2>
+		</div>
+		<div class="row">
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/y2.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$600</h4></center>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/y3.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$800</h4></center>
+			</div>
+		</div>
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/y4.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$700</h4></center>
+			</div>
+		</div>
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/y5.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1000</h4></center>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/y6.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1100</h4></center>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/y7.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$830</h4></center>
+			</div>
+		</div>
+		
+
+
+		</div>
+		<br><br><br>
+		<div class="title-style text-center">
+			<h2>Wall design</h2>
+		</div>
+
+		<div class="row">
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/b1.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1999</h4></center>
+				</div>
+			</div>
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/b2.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1200</h4></center>
+			</div>
+		</div>
+			<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/b3.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1000</h4></center>
+			</div>
+		</div>
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/b4.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$800</h4></center>
+					
+			</div>
+		</div>
+
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/b5.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1200</h4></center>
+			</div>
+		</div>
+
+		<div class="col-md-4">
+				<div class="interior-img">
+					<img src="images/b6.jpg" width="300" height="300">
+					<button type="button" class="btn-buy">Buy Now</button>
+					<center><h4 style="color:#015668;">PRICE:$1600</h4></center>
+			</div>
+		</div>
+	</div>
+
+
+
+	</div>
+	
+</section>
+
+<section  class="offers">
+	<div style="background-color:white;" class="row">
+		<div class="col-md-6 text-center">
+			<a href="policy.html"><img src="images/d2.jpg" width="300" height="400"></a>
+			
+		</div>
+		<div class="col-md-6">
+		     <div class="subscribe">
+		     <h4 style="padding:50px 30px;">EXCLUSIVE OFFERS</h4>
+		       <p>Subsribe our youtube channels to know more exciting offers and to watch demo videos
+		          of our product production...Thank you('-')</p>
+		          <a href="policy.html">Subsribe</a>
+	    </div>
+		
+	</div>	
+		
+</div>
+
+
+	
+</section>
+
+<section id="testimonials">
+	<div class="container">
+		<h1 class="text-center">Meet Our Customers</h1>
+		<p class="text-center">To learn more, see reviews below or submit your own.</p>
+	</div>
+
+		<div style="background-color:white;" class="row">
+			<div class="col-md-4">
+				<p class="reviews">I loved overall look from aesthetic point of view that it offers.It look perfect purchase for macrame plant hanger,Really nice product.<br><i class="fa fa-twitter"></i> <span>@shilpashilpu</span></p>
+				<img src="images/s.jpg">
+			</div>
+			<div class="col-md-4">
+
+				<p class="reviews">I haven't  yet fixed these on my wall,but the look and feel of the product is really good and as shown in the picture.Overall product is really good. Go for it..<br><i class="fa fa-twitter"></i><span>@prashanthyadav</span></p>
+				<img src="images/pp.jpg">
+				
+			</div>
+			<div class="col-md-4">
+				<p class="reviews">Product is of great quality.Bought it for a friend and it looks elegant and beautiful,great finish but costly.<br><i class="fa fa-twitter"></i><span>@pavithraa</span></p>
+				<img src="images/p.jpg">
+			</div>
+		</div>
+	</div>
+</section>
+
+<section id="footer">
+	<div class="container">
+		<div style="padding: 10px 40px;" class="row">
+			<div class="col-md-3">
+				<h3>HOME DECOR</h3>
+				<p>Decorating golden rule:Live with what you love<br>
+			.</p>
+			</div>
+			<div class="col-md-3">
+				<h1><u>Features</u></h1>
+				<p>High Quality</p>
+				<p>Friendly Products</p>
+				<p>50% off for New Users</p>
+
+			</div>
+			<div class="col-md-3">
+				<h1><u>Quick Content</u></h1>
+				<p><i class="fa fa-phone-square"></i>+91 8123560548</p>
+				<p><i class="fa fa-envelope"></i>anushacs548@gmail.com</p>
+				<p><i class="fa fa-home"></i>#138 Palanjogihalli, Doddaballapur</p>
+				<p class="city">karnataka, India</p>
+				<p><a href=" https://www.google.com/maps/search/nagatharpete,+Doddaballapura,+Karnataka/@13.2909045,77.5190882,14z/data=!3m1!4b1">
+				<i class="fa fa-map-marker" aria-hidden="true"></i></a>location details</p>
+
+				
+			</div>
+			<div class="col-md-3">
+				<h1><u>Follow us on</u></h1>
+				<a href="https://www.facebook.com/anusha393"><i class="fa fa-facebook-official"></i></a>
+				<a href="https://www.youtube.com/channel/UCCNbpK_2j3_aWDj7fd2I-eQ?view_as=subscriber"><i class="fa fa-youtube-play"></i></a>
+				<a href="https://www.linkedin.com/in/anusha-cs-a9029a177"><i class="fa fa-linkedin"></i></a>
+				<a href="https://twitter.com/anushacs"><i class="fa fa-twitter"></i></a>
+				
+				
+			</div>
+		</div>   <hr>
+
+		<p class="copyright"> made with <i class="fa fa-heart-o"></i></p>
+
+	</div>
+
+	
+</section>
+
+<script src="js/smooth-scroll.js"></script>
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]');
+</script>
+	
+
+
+
+
+</body>
+</html>
